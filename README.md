@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-- 🔭 I’m currently working on [fork48](https://github.com/fork48-project/fork48)
-- 🌱 I’m currently learning various web development tools
+- 🔭 I’m currently working on [stajs](https://github.com/thatretrodev/stajs)
+- 🌱 I’m currently learning a lot of things
 - 📫 How to reach me:  
 thatretrodev#3049  
 https://twitter.com/thatretrodev
