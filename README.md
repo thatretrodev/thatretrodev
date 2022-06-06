@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-- 🔭 I’m currently working on [stajs](https://github.com/thatretrodev/stajs)
-- 🌱 I’m currently learning a lot of things
+- 🔭 I’m currently working on too many things
+- 🌱 I’m currently learning [brux-gdk](https://github.com/kelvinshadewing/brux-gdk)
 - 📫 How to reach me:  
 thatretrodev#3049  
 https://twitter.com/thatretrodev
